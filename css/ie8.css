@@ -1,0 +1,4 @@
+/* IE 8 Only Fixes
+================================================== */
+
+.headertop { width: 1000px; margin-left: -500px; left: 50%; }
