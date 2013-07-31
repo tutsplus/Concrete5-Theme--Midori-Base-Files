@@ -1,0 +1,2 @@
+Midori Theme
+A fully responsive bootstrap powered concrete5 theme
